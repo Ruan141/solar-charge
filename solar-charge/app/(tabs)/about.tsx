@@ -64,7 +64,7 @@ const NorwegianEVWebinar = () => {
             • <Text style={styles.bold}>Resources:</Text> Minerals are sufficient for global EV
             transition
           </Text>
-        </V>
+        </View>
 
         <View style={styles.section}>
           <Text style={styles.sectionHeader}>User Satisfaction</Text>
