@@ -1,4 +1,5 @@
 What is Solar-Charge?
+
 Solar-Charge is a user-friendly application designed to help electric vehicle (EV) owners, or prospective owners, determine the ideal solar power setup needed to charge their vehicle using renewable energy. In an era where sustainability and energy independence are becoming increasingly vital, Solar-Charge empowers you to make informed decisions about integrating solar power into your EV charging routine.
 
 Why Use Solar-Charge?
